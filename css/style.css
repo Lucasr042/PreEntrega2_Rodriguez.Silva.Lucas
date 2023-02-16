@@ -2,6 +2,9 @@
 /*font-family: 'Raleway', sans-serif;*/
 /* google fonts */
 
+*{ margin: 0;
+padding: 0;}
+
 /* ---------------header ----------*/
 header h1{color: white; font-size: 40px; }
 header a i { font-size: 35px; color: white;}
@@ -47,20 +50,17 @@ ul { font-weight: bold;
     body main p {font-weight: bold ; color: red;}
  /* ---------------Main Plantilla ----------*/
 
-
-    /* ---------------Main noticias ----------*/
+/* ---------------Main noticias ----------*/
 body main p {color: white;}
 
 body main h6 {font-size: 25px;
 text-align: center;}
-
 /* ---------------Main noticias ----------*/
 /* ---------------footer ----------*/
 
 footer p { font-weight:bold;}
 footer{ background-image: linear-gradient( 96.5deg,  rgba(39,103,187,1) 10.4%, rgba(16,72,144,1) 87.7% );
 ;}
-
 
 footer a i {font-size: 35px;
 color: white;
