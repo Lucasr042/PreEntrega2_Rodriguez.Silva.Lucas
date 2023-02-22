@@ -21,7 +21,6 @@ position: sticky;}
 /* ---fin nav ----*/
 
 /* ---------------header ----------*/
-
 /* ---comienzo article ----*/
 .resultados {background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.76234243697479) 35%, rgba(0,164,255,1) 100%);}
@@ -44,8 +43,7 @@ ul { font-weight: bold;
     list-style-type: none}
 
 /* ---------------Main Plantilla ----------*/
-    
-    body main h5 {font-weight: bolder; font-size: 20px;}
+    body main h3 {font-weight: bolder; font-size: 20px;}
 
     body main p {font-weight: bold ; color: red;}
  /* ---------------Main Plantilla ----------*/
@@ -53,26 +51,20 @@ ul { font-weight: bold;
 /* ---------------Main noticias ----------*/
 body main p {color: white;}
 
-body main h6 {font-size: 25px;
+body main h2 {font-size: 25px;
 text-align: center;}
 /* ---------------Main noticias ----------*/
 /* ---------------footer ----------*/
-
 footer p { font-weight:bold;}
 footer{ background-image: linear-gradient( 96.5deg,  rgba(39,103,187,1) 10.4%, rgba(16,72,144,1) 87.7% );
 ;}
-
 footer a i {font-size: 35px;
 color: white;
 display: inline-block;
 position: 0 15px;}
-
 footer a i:hover{color: red;} 
-
 footer ul li {display: inline-block; margin: 5px; padding: 4px;}
-
 body footer ul li :hover{color: red; background-color: white}
-
 footer ul li a {color: white;}
 /* ---------------footer ----------*/
 
